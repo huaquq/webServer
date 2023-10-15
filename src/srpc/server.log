@@ -1,0 +1,33 @@
+2023-10-08 23:20:20,290 mycat [INFO]  [signup.cc operator() 70] insert tbl_user error
+2023-10-08 23:22:34,159 mycat [INFO]  [signup.cc Signup 50] insert into cloudisk.tbl_user (user_name, user_pwd) Values('wys4', 'wyuETXdOr4Yn6');
+2023-10-08 23:26:02,451 mycat [INFO]  [signin.cc Signin 46] username: wys4, password: 1234
+
+2023-10-08 23:28:47,682 mycat [INFO]  [signup.cc Signup 50] insert into cloudisk.tbl_user (user_name, user_pwd) Values('wys5', '12IbR.gJ8wcpc');
+2023-10-08 23:28:57,648 mycat [INFO]  [signin.cc Signin 46] username: wys5, password: 12345
+
+2023-10-08 23:29:33,233 mycat [INFO]  [signin.cc Signin 46] username: wys5, password: 12345
+
+2023-10-08 23:29:40,891 mycat [INFO]  [signin.cc Signin 46] username: wys5, password: 12345
+
+2023-10-08 23:30:30,462 mycat [INFO]  [signin.cc Signin 46] username: wys5, password: 12345
+
+2023-10-08 23:36:11,950 mycat [INFO]  [signin.cc Signin 46] username: wys5, password: 12345
+
+2023-10-08 23:36:12,011 mycat [INFO]  [signin.cc operator() 88] password error
+2023-10-08 23:36:31,934 mycat [INFO]  [signin.cc Signin 46] username: wys5, password: 123
+
+2023-10-08 23:38:08,221 mycat [INFO]  [signin.cc Signin 46] username: wys5, password: 1234
+
+2023-10-08 23:38:08,233 mycat [INFO]  [signin.cc operator() 88] password error
+2023-10-08 23:38:29,001 mycat [INFO]  [signin.cc Signin 46] username: wys5, password: 123
+
+2023-10-08 23:40:35,757 mycat [INFO]  [signin.cc Signin 46] username: wys5, password: 123
+
+2023-10-09 09:55:59,497 mycat [INFO]  [signin.cc Signin 46] username: wys, password: 1234
+
+2023-10-09 09:55:59,609 mycat [INFO]  [signin.cc operator() 88] password error
+2023-10-09 09:56:08,258 mycat [INFO]  [signin.cc Signin 46] username: wys5, password: 123
+
+2023-10-09 10:14:35,205 mycat [INFO]  [signup.cc Signup 50] insert into cloudisk.tbl_user (user_name, user_pwd) Values('wys6', '12IbR.gJ8wcpc');
+2023-10-09 10:14:41,242 mycat [INFO]  [signin.cc Signin 46] username: wys6, password: 123
+
